@@ -30,6 +30,3 @@ Close the game and run `uninstall.bat`, or use "Verify integrity of game files" 
 `DressmakerAutomation.cfg` is created on first start in
 `%USERPROFILE%\AppData\LocalLow\Unity Technologies\com.unity.template.urp-blank`.
 Set to `false` and restart: `InfiniteMoney`, `AutoGrainAlignment`, `AutoMannequinSizing`, `FindValidPosition`.
-
-## Notes
-- A Steam
